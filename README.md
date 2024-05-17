@@ -8,6 +8,4 @@ The first submission employed spectral clustering for the label phase, a Gaussia
 <a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/materials_informatics_competition/blob/main/notebooks/Challenges_Submission_DP_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The two alternative submissions made use of a KNN classifier for the extrapolate phase, respectively with n_neighbors=8 and 5.
-<a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/materials_informatics_competition/blob/main/notebooks/Challenges_Submission_DP_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-<a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/materials_informatics_competition/blob/main/notebooks/Challenges_Submission_DP_3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/materials_informatics_competition/blob/main/notebooks/Challenges_Submission_DP_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  <a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/materials_informatics_competition/blob/main/notebooks/Challenges_Submission_DP_3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
