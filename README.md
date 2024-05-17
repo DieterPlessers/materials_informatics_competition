@@ -1,7 +1,7 @@
 # Submission for MLMR’s Annual Materials Informatics Competition 2024
 Click [here](https://github.com/martintb/active_learning_tutorial) for more information on the competition. Goal was to predict the phase map of a three-component system with **active learning**, where each experiment returns   realistic small-angle neutron scattering (SANS) data that vary with sample composition. 
 
-<img src="assets/Phase_Map_Active_Learning.png" alt="Overview" width="800"/>
+<img src="assets/Phase_Map_Active_Learning.png" alt="Overview" width="600"/>
 
 
 The first submission employed spectral clustering for the label phase, a GaussianProcessClassifier with the RationalQuadratic kernel for the extrapolate phase and entropy for the acquire phase. 
