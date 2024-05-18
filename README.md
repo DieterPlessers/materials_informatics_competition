@@ -3,7 +3,7 @@ Click [here](https://github.com/martintb/active_learning_tutorial) for more info
 
 <img src="assets/Phase_Map_Active_Learning.png" alt="Overview" width="600"/>
 
-The first submission employed spectral clustering for the label phase, a GaussianProcessClassifier with the RationalQuadratic kernel for the extrapolate phase and entropy for the acquire phase. 
+The first submission employed spectral clustering for the label phase, a Gaussian process classifier with the rational quadratic kernel for the extrapolate phase and entropy for the acquire phase. 
 <a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/materials_informatics_competition/blob/main/notebooks/Challenges_Submission_DP_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The two alternative submissions made use of a KNN classifier for the extrapolate phase, respectively with n_neighbors=8 and 5.
